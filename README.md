@@ -1,6 +1,6 @@
 ## Aula 05/08 no git
 # 💫 About Me:
-sou estudante de sistemas <br>estou a procura de estagio
+Aluno 4 semestre de Sistemas<br>estou a procura de estagio
 
 
 ## 🌐 Socials:
@@ -15,3 +15,4 @@ sou estudante de sistemas <br>estou a procura de estagio
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VitorSorvete&icon=0&color=0)](https://visitcount.itsvg.in)
+
