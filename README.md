@@ -2,7 +2,7 @@
 "I'm a 4th-semester Systems student seeking an internship or a job in the field.
 
 <img align= 'right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN0a2d0ZjZwdHQ5MnQxNG91ZGhwaXk0bTF5YW41eHpvdGMyZGZidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/50EDybcf4H0q0HO9Wz/giphy.gif"
-width="230">
+width="500">
 
 
 ## 🌐 Socials:
