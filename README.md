@@ -1,4 +1,3 @@
-## Aula 05/08 no git
 # 💫 About Me:
 "I'm a 4th-semester Systems student seeking an internship or a job in the field.
 
