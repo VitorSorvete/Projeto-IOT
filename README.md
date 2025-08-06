@@ -1,6 +1,6 @@
 ## Aula 05/08 no git
 # 💫 About Me:
-Aluno 4 semestre de Sistemas<br>estou a procura de estagio
+"I'm a 4th-semester Systems student seeking an internship or a job in the field.
 
 
 ## 🌐 Socials:
